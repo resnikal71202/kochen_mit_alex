@@ -1,7 +1,0 @@
-\babel@toc {ngerman}{}\relax 
-\contentsline {chapter}{\numberline {1}Snacks}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Tofu mit Senf}{2}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Hauptgerichte}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Zwiebelkuchen}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}chilli sin carne}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Pizza}{5}{section.2.3}%
