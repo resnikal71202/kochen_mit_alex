@@ -138,7 +138,7 @@
             "command": "ebook-convert",
             "args": [
                 "%DOC%.html",
-                "%DOC%.epub",
+                "%DOC%.epub", // change .epub to the desired output format
                 "--output-profile",
                 "tablet",
             ],
